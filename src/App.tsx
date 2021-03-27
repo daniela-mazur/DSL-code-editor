@@ -1,5 +1,7 @@
+import { Editor } from "./editor";
+
 function App() {
-  return <div></div>;
+  return <Editor />;
 }
 
 export default App;
